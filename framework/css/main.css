@@ -9,10 +9,6 @@ h4 {
     color: darkolivegreen;
 }
 
-a {
-    text-decoration: none;
-}
-
 .text-thin {
     font-weight: 100;
 }
@@ -26,7 +22,7 @@ a {
 }
 
 .title-hr {
-    width: 100%;
+    color: red;
 }
 
 .title-img {
@@ -35,4 +31,18 @@ a {
 
 .social {
     color: darkslategray;
+}
+
+.bg-danger {
+    background-color: #747704;
+    color: #000000
+}
+
+.link {
+    text-decoration: none;
+    color: brown;
+}
+
+.footer {
+    margin: 20px;
 }
